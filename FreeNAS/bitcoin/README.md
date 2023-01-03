@@ -90,6 +90,6 @@ Nostr hex pubkey: a602b0e02afdb399ea3a683db246090ed9a30262cd105a61495869251c49e4
 
 ### Shout outs
 Special thanks to the Stadicus Raspberry pi guide for inspiring this freebsd guide, check it out here:
-https://github.com/Stadicus/guides/blob/master/raspibolt/README.md
+https://github.com/Stadicus/raspibolt-setup/blob/master/README.md
 
 Next: [ [Jail Creation](freenas_1_jail_creation.md) ]
